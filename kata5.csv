@@ -1,0 +1,6 @@
+i;i>=25;i%2!==0;count
+25;"true ";true;[25]
+24;true;false;[25]
+23;true;true;[25,23]
+22;true;false;[25,23]
+21;true;true;[25,23,21]
