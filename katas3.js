@@ -162,6 +162,11 @@ console.log(kata15(20))
 
 
 function kata16(x) {
+    let resultado = 0
+    for(let i = 0; i<x.length; i++){
+        resultado = x[i] +resultado
+    }
+   return resultado
 }
  console.log(kata16(sampleArray))
  
